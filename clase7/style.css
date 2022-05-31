@@ -1,0 +1,40 @@
+.logobatman {
+    display:block;
+    margin:auto;
+
+}
+
+h1 {
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+h3 {
+    color: #005677;
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    padding: 0;
+    margin: 16px;
+  }
+
+span {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mini{
+    color: #ffffff;
+    background-color: #005677;
+    text-align: center;
+
+}
